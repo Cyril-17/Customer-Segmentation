@@ -4,7 +4,7 @@ This project applies unsupervised machine learning to segment customers into dis
 By identifying customer clusters, businesses can design targeted marketing campaigns, optimize engagement, and improve overall strategy.
 
 Dataset
-Source: Mall Customer Segmentation Data (Kaggle)
+Source: Mall Customer Segmentation Data (Kaggle) https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 Size: 200 customers
 Features:
 Age
@@ -45,22 +45,8 @@ Tech Stack
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Machine Learning: KMeans, Gaussian Mixture Models, PCA
 
-How to Run
-
-Clone the repository
-
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
-
-
-Install dependencies
-pip install -r requirements.txt
-
-
-Run the script
-python clustering.py
-
 View the visualizations in the output plots.
+Run the code in goggle colab
 
 Conclusion
 
